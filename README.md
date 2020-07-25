@@ -16,11 +16,11 @@ I'm a bit hard of hearing and a bit of a stutterer, so I prefer written to spoke
 
 1. [![Slack](https://cdn.brandfolder.io/5H442O3W/at/pl546j-7le8zk-6gwiyo/Slack_Mark.png?width=12&height=12) CMI-CNL Slack](cmi-cnl.slack.com)
 2. ![Credo Mobile](https://upload.wikimedia.org/wikipedia/en/thumb/1/19/CREDO_Mobile_logo.svg/37px-CREDO_Mobile_logo.svg.png) text messages
-3. <img src="https://outlook.office.com/mail/favicon.ico" alt="Outlook" style="height:12px;"> work (`@childmind.org`) email
+3. ![Outlook](https://github.com/shnizzedy/shnizzedy/blob/README/images/outlook_12px.png?raw=true) work (`@childmind.org`) email
 5. :octocat: GitHub issues
 4. ![Slack](https://cdn.brandfolder.io/5H442O3W/at/pl546j-7le8zk-6gwiyo/Slack_Mark.png?width=12&height=12) other Slack workspaces
 5. [<img src="https://mattermost.com/wp-content/themes/mattermostv3/favicon-16x16.png" style="height:12px;" alt="Mattermost"> Brainhack Mattermost](https://mattermost.brainhack.org/brainhack)
-6. <img src="http://www.vasegurt.com/images/bmb_curdling_logo.gif" alt="Vasegurt" style="height:12px;"> personal (`@vasegurt.com`) email
+6. ![Vasegurt](https://github.com/shnizzedy/shnizzedy/blob/README/images/vasegurt_12px.png?raw=true) personal (`@vasegurt.com`) email
 
 If I don’t respond, try:
 
