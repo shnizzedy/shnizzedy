@@ -1,4 +1,4 @@
-## How to work with Jon[<sup>※</sup>](references.md#personal_readmes)
+## How to work with Jon[<sup>※</sup>](https://github.com/shnizzedy/shnizzedy/blob/README/references.md#personal_readmes)
 <!-- *This document is meant to give colleagues a quick rundown on my work preferences, and some context about my life. Feel free to edit the template and add whatever information feels important to you! You are free to use and share this template under Creative Commons Attribution-ShareAlike 2.5 Generic (CC BY-SA 2.5).* -->
 
 ### My work hours:
@@ -24,7 +24,7 @@ I'm a bit hard of hearing and a bit of a stutterer, so I prefer written to spoke
 
 If I don’t respond, try:
 
-1. ![Just wait longer](https://media1.tenor.com/images/4d554879137742fad3d80884299d1c55/tenor.gif?itemid=16456386)[<sup>※</sup>](references.md#ace_ventura)
+1. ![Just wait longer](https://media1.tenor.com/images/4d554879137742fad3d80884299d1c55/tenor.gif?itemid=16456386)[<sup>※</sup>](https://github.com/shnizzedy/shnizzedy/blob/README/references.md#ace_ventura)
 2. reaching out to someone else relevant to the question / project
 3. sending me a reminder
 
@@ -35,7 +35,7 @@ Check out my [![Sourcerer logo](https://sourcerer.io/icons/logo-sharing.svg) Sou
 ### What makes me grumpy?
 Demands for action combined with unwillingness to explain the target of said action.
 
-![American Chopper Argument](images/American%20Chopper%20Argument.jpeg)[<sup>※</sup>](references.md#american_chopper)
+![American Chopper Argument](https://github.com/shnizzedy/shnizzedy/blob/README/images/American%20Chopper%20Argument.jpeg?raw=true)[<sup>※</sup>](https://github.com/shnizzedy/shnizzedy/blob/README/references.md#american_chopper)
   
 ### How do I like to give feedback?
 <!-- *In-person? Via Slack/email? Frequency of feedback?* -->
@@ -58,7 +58,7 @@ Art, particularly [music](https://www.last.fm/user/shnizzedy), [literature](http
 
 * My favorite baked good — pie
 * Spouses/partners/kiddos/pets — one spouse
-* Fruit on pizza — yes, especially jalapeño + pineapple ![Mazikeen's pizza order](https://d12qk6n9ersps4.cloudfront.net/3471806/medium-clean.jpg)[<sup>※</sup>](references.md#god_johnson)
+* Fruit on pizza — yes, especially jalapeño + pineapple ![Mazikeen's pizza order](https://d12qk6n9ersps4.cloudfront.net/3471806/medium-clean.jpg)[<sup>※</sup>](https://github.com/shnizzedy/shnizzedy/blob/README/references.md#god_johnson)
 * My coffee order — decaf café au lait
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/2.5/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/2.5/88x31.png" /></a><br />This work[<sup>※</sup>](references.md#personal_readmes) is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.5/">Creative Commons Attribution-ShareAlike 2.5 Generic License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/2.5/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/2.5/88x31.png" /></a><br />This work[<sup>※</sup>](https://github.com/shnizzedy/shnizzedy/blob/README/references.md#personal_readmes) is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.5/">Creative Commons Attribution-ShareAlike 2.5 Generic License</a>.
