@@ -1,14 +1,15 @@
 ## How to work with Jon[<sup>※</sup>](https://github.com/shnizzedy/shnizzedy/blob/README/references.md#personal_readmes)
 <!-- *This document is meant to give colleagues a quick rundown on my work preferences, and some context about my life. Feel free to edit the template and add whatever information feels important to you! You are free to use and share this template under Creative Commons Attribution-ShareAlike 2.5 Generic (CC BY-SA 2.5).* -->
 
-### My work hours:
+<details markdown="1">
+  <summary><strong>My work hours</strong></summary>
 <!-- *Are you a morning person? Or a night owl? When should someone expect to work with you? When will I be unavailable?* -->
 
 I <span title="struggle">strive</span> to maintain a healthy work-life balance. In service of that effort, for my primary employment I try to be:
 
 * fully available 9 AM ‒ 5 PM ([America/New_York](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones)) on workdays (typically Monday ‒ Friday) with approximately a 30 minute lunch break at some point
 * fully unavailable outside those hours, during lunch, weekends, and days off
-
+</details>
 ### What’s the best way to communicate with me?
 <!-- *Prefer Slack over email on certain topics? Prefer in-person meetings over chats? Is it OK to interrupt when I have headphones on?* -->
 
@@ -36,7 +37,7 @@ Check out my [![Sourcerer logo](https://sourcerer.io/icons/logo-sharing.svg) Sou
 Demands for action combined with unwillingness to explain the target of said action.
 
 ![American Chopper Argument](https://github.com/shnizzedy/shnizzedy/blob/README/images/American%20Chopper%20Argument.jpeg?raw=true)[<sup>※</sup>](https://github.com/shnizzedy/shnizzedy/blob/README/references.md#american_chopper)
-  
+
 ### How do I like to give feedback?
 <!-- *In-person? Via Slack/email? Frequency of feedback?* -->
 Timely, constructively, and specifically.
