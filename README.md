@@ -32,10 +32,10 @@ If I don’t respond, try:
 3. sending me a reminder
 </details>
 
-<details markdown="1">
+<details>
   <summary><strong>I'd love to help you with ____</strong></summary>
 <!-- *What are tools, libraries, skills, etc., that you can help others with? e.g., I am always happy to help teach people how to make GIFs in photoshop, or how to use Sketch for super-fast prototyping.* -->
-Check out my [![Sourcerer logo](https://sourcerer.io/icons/logo-sharing.svg) Sourcerer profile](https://sourcerer.io/shnizzedy) to see where I've been actively coding.
+Check out my <a href="https://sourcerer.io/shnizzedy"><img alt="Sourcerer logo" src="https://sourcerer.io/icons/logo-sharing.svg"> Sourcerer profile</a> to see where I've been actively coding.
 </details>
 
 <details markdown="1">
@@ -66,7 +66,7 @@ I hope to carve out enough time to help my friend Dr. Bu realize his design for 
 <details markdown="1">
   <summary><strong>Topics I’m always happy to talk about</strong></summary>
 <!-- *WebGL? The sandwich spectrum? Medieval poetry? Your dog? Give people ideas on what you love to discuss.* -->
-Art, particularly [music](https://www.last.fm/user/shnizzedy), [literature](https://www.goodreads.com/author/show/3092846.Jon_Clucas), and [film](https://www.imdb.com/user/ur24972391/?ref_=nv_usr_prof_2).
+Art, particularly <a href="https://www.last.fm/user/shnizzedy">music</a>, <a href="https://www.goodreads.com/author/show/3092846.Jon_Clucas">literature</a>, and <a href="https://www.imdb.com/user/ur24972391/?ref_=nv_usr_prof_2">film</a>.
 </details>
 
 <details markdown="1">
