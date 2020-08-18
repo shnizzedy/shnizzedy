@@ -80,5 +80,7 @@ Art, particularly <a href="https://www.last.fm/user/shnizzedy">music</a>, <a hre
 </details>
 
 <details markdown="1">
-  <summary><a rel="license" href="http://creativecommons.org/licenses/by-sa/2.5/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/2.5/88x31.png" /></a></summary>This work[<sup>※</sup>](https://github.com/shnizzedy/shnizzedy/blob/README/references.md#personal_readmes) is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.5/">Creative Commons Attribution-ShareAlike 2.5 Generic License</a>.
+  <summary><a rel="license" href="http://creativecommons.org/licenses/by-sa/2.5/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/2.5/88x31.png" /></a></summary>
+  
+  This work[<sup>※</sup>](https://github.com/shnizzedy/shnizzedy/blob/README/references.md#personal_readmes) is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.5/">Creative Commons Attribution-ShareAlike 2.5 Generic License</a>.
 </details>
