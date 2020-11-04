@@ -18,7 +18,7 @@ I <span title="struggle">strive</span> to maintain a healthy work-life balance. 
 I'm a bit hard of hearing and a bit of a stutterer, so I prefer written to spoken communication. I check the following in order of frequency:
 
 1. [![Slack](https://cdn.brandfolder.io/5H442O3W/at/pl546j-7le8zk-6gwiyo/Slack_Mark.png?width=12&height=12) CMI-CNL Slack](cmi-cnl.slack.com)
-2. ![Credo Mobile](https://upload.wikimedia.org/wikipedia/en/thumb/1/19/CREDO_Mobile_logo.svg/37px-CREDO_Mobile_logo.svg.png) text messages
+2. ![Credo Mobile](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/CREDO_Mobile_logo.svg/37px-CREDO_Mobile_logo.svg.png) text messages
 3. ![Outlook](https://github.com/shnizzedy/shnizzedy/blob/README/images/outlook_12px.png?raw=true) work (`@childmind.org`) email
 5. :octocat: GitHub issues
 4. ![Slack](https://cdn.brandfolder.io/5H442O3W/at/pl546j-7le8zk-6gwiyo/Slack_Mark.png?width=12&height=12) other Slack workspaces
@@ -77,6 +77,11 @@ Art, particularly <a href="https://www.last.fm/user/shnizzedy">music</a>, <a hre
 * Spouses/partners/kiddos/pets — one spouse
 * Fruit on pizza — yes, especially jalapeño + pineapple ![Mazikeen's pizza order](https://github.com/shnizzedy/shnizzedy/blob/README/images/Mazikeen's%20pizza.png?raw=true)[<sup>※</sup>](https://github.com/shnizzedy/shnizzedy/blob/README/references.md#god_johnson)
 * My coffee order — decaf café au lait
+</details>
+
+<details markdown="1">
+   <summary><strong>Some badges 📛<strong></summary>
+<img src="https://anchor.digitalocean.com/rs/113-DTN-266/images/Tree%20Badge.png" alt="Hacktoberfest 2020 tree planted" height="100px"><img src="https://i.stack.imgur.com/9qUuc.png" alt="Pluralsight Python IQ" height="100px">
 </details>
 
 <details markdown="1">
