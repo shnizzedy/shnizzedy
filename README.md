@@ -81,7 +81,7 @@ Art, particularly <a href="https://www.last.fm/user/shnizzedy">music</a>, <a hre
 
 <details markdown="1">
    <summary><strong>Some badges 📛<strong></summary>
-<img src="https://anchor.digitalocean.com/rs/113-DTN-266/images/Tree%20Badge.png" alt="Hacktoberfest 2020 tree planted" height="100px"><img src="https://i.stack.imgur.com/9qUuc.png" alt="Pluralsight Python IQ" height="100px">
+<a href="https://hacktoberfest.digitalocean.com/"><img src="https://anchor.digitalocean.com/rs/113-DTN-266/images/Tree%20Badge.png" alt="Hacktoberfest 2020 tree planted" height="100px"></a><a href="https://stackoverflow.com/users/story/7868821#assessment-8290135"><img src="https://i.stack.imgur.com/9qUuc.png" alt="Pluralsight Python IQ" height="100px"></a><span itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0001-7590-5806" href="https://orcid.org/0000-0001-7590-5806" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/100px-ORCID_iD.svg.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon"></a></span>
 </details>
 
 <details markdown="1">
