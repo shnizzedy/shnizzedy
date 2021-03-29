@@ -32,12 +32,6 @@ If I don’t respond, try:
 3. sending me a reminder
 </details>
 
-<details>
-  <summary><strong>I'd love to help you with ____</strong></summary>
-<!-- *What are tools, libraries, skills, etc., that you can help others with? e.g., I am always happy to help teach people how to make GIFs in photoshop, or how to use Sketch for super-fast prototyping.* -->
-Check out my <a href="https://sourcerer.io/shnizzedy"><img alt="Sourcerer logo" src="https://sourcerer.io/icons/logo-sharing.svg"> Sourcerer profile</a> to see where I've been actively coding.
-</details>
-
 <details markdown="1">
   <summary><strong>What makes me grumpy?</strong></summary>
 Demands for action combined with unwillingness to explain the target of said action.
