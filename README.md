@@ -1,5 +1,4 @@
-## Metrics
-![https://github.com/lowlighter/metrics](https://github.com/shnizzedy/shnizzedy/blob/README/github-metrics.svg)
+[![https://github.com/lowlighter/metrics](https://github.com/shnizzedy/shnizzedy/blob/README/github-metrics.svg)](https://github.com/shnizzedy)
 
 ## How to work with Jon[<sup>※</sup>](https://github.com/shnizzedy/shnizzedy/blob/README/references.md#personal_readmes)
 <!-- *This document is meant to give colleagues a quick rundown on my work preferences, and some context about my life. Feel free to edit the template and add whatever information feels important to you! You are free to use and share this template under Creative Commons Attribution-ShareAlike 2.5 Generic (CC BY-SA 2.5).* -->
