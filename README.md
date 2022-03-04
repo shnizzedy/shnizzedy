@@ -85,3 +85,7 @@ Art, particularly <a href="https://www.last.fm/user/shnizzedy">music</a>, <a hre
   
   This work[<sup>※</sup>](https://github.com/shnizzedy/shnizzedy/blob/README/references.md#personal_readmes) is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.5/">Creative Commons Attribution-ShareAlike 2.5 Generic License</a>.
 </details>
+
+<div id="Inspirobot" name="Inspirobot">
+<a href="https://inspirobot.me"><img src="./images/inspiration.jpg" alt="Inspiration from Inspirobot" title="Inspiration from Inspirobot"/></a>
+</div>

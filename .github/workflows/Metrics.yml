@@ -1,5 +1,4 @@
-# Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
-name: Metrics
+name: Metrics & Inspiration
 on:
   # Schedule updates (each hour)
   schedule: [{cron: "0 * * * *"}]
@@ -8,6 +7,7 @@ on:
   push: {branches: ["README"]}
 jobs:
   github-metrics:
+    # Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
@@ -67,3 +67,19 @@ jobs:
           plugin_stackoverflow_lines.snippet: 2
           plugin_stackoverflow_lines: 4
           plugin_stackoverflow_sections: answers-top, questions-recent
+  inspirobot:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out
+        if: github.event.inputs.base_ref == ''
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 2
+      - name: Get inspired
+        run: |
+          curl -o images/inspiration.jpg -LJ `curl -LJ https://inspirobot.me/api?generate=true`
+          git config --global user.email "inspirobot@inspirobot.me"
+          git config --global user.name "Inspirobot"
+          git add images/inspiration.jpg
+          git commit -m ":robot: Generate inspiration"
+          git push origin HEAD:${GITHUB_BRANCH} || true
