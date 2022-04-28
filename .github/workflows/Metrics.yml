@@ -83,3 +83,22 @@ jobs:
           git add images/inspiration.jpg
           git commit -m ":robot: Generate inspiration"
           git push origin HEAD:${{github.ref_name}} || true
+  squash:
+    needs:
+      - github-metrics
+      - inspirobot
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+      - name: Squash
+        run: |
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'shnizzedy@users.noreply.github.com'
+          CROTCH=$(git log --oneline | grep -v "Update github-metrics.svg" | grep -v "Generate inpsiration" | head -n 1 | cut -d' ' -f 1)
+          MESSAGE=$(git log --oneline $CROTCH...HEAD)
+          git reset --soft $CROTCH~1
+          git commit -am "$MESSAGE"
+          git push origin HEAD:${{github.ref_name}} -f || true
