@@ -1,0 +1,104 @@
+name: Metrics & Inspiration
+on:
+  # Schedule updates (each hour)
+  schedule: [{cron: "0 * * * *"}]
+  # Lines below let you run workflow manually and on each commit
+  workflow_dispatch:
+  push: {branches: ["README"]}
+jobs:
+  github-metrics:
+    # Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
+    runs-on: ubuntu-latest
+    needs:
+      - inspirobot
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Your GitHub token
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Options
+          user: shnizzedy
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: America/New_York
+          plugin_achievements: yes
+          plugin_achievements_secrets: yes
+          plugin_achievements_threshold: C
+          plugin_activity: yes
+          plugin_activity_days: 14
+          plugin_activity_filter: all
+          plugin_activity_limit: 5
+          plugin_activity_visibility: all
+          plugin_followup: yes
+          plugin_followup_sections: repositories
+          plugin_habits: yes
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_from: 200
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          plugin_languages: yes
+          plugin_languages_colors: github
+          plugin_languages_limit: 8
+          plugin_languages_threshold: 0%
+          plugin_music: yes
+          plugin_music_provider: lastfm  # Use Last.fm as provider
+          plugin_music_mode: recent      # Set plugin mode
+          plugin_music_limit: 4          # Limit to 4 entries
+          plugin_music_user: shnizzedy
+          plugin_music_token: ${{ secrets.LASTFM_API_KEY }}
+          plugin_notable: yes
+          plugin_people: yes
+          plugin_people_limit: 28
+          plugin_people_size: 28
+          plugin_people_types: followers, following
+          plugin_projects: yes
+          plugin_projects_limit: 4
+          plugin_reactions: yes
+          plugin_reactions_display: absolute
+          plugin_reactions_ignored: github-actions[bot], dependabot[bot]
+          plugin_reactions_limit: 200
+          plugin_skyline: yes
+          plugin_skyline_frames: 60
+          plugin_skyline_quality: 0.5
+          plugin_skyline_year: current-year
+          plugin_stackoverflow: yes
+          plugin_stackoverflow_user: 7868821
+          plugin_stackoverflow_limit: 2
+          plugin_stackoverflow_lines: 4
+          plugin_stackoverflow_sections: answers-top, questions-recent
+  inspirobot:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out
+        if: github.event.inputs.base_ref == ''
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 2
+      - name: Get inspired
+        run: |
+          curl -o images/inspiration.jpg -LJ `curl -LJ https://inspirobot.me/api?generate=true`
+          git config --global user.email "inspirobot@inspirobot.me"
+          git config --global user.name "Inspirobot"
+          git add images/inspiration.jpg
+          git commit -m ":robot: Generate inspiration"
+          git push origin HEAD:${{github.ref_name}} || true
+  squash:
+    needs:
+      - github-metrics
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+      - name: Squash
+        run: |
+          git config --global user.name 'GitHub Actions'
+          git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          CROTCH=$(git log --oneline | grep -v "Update github-metrics.svg" | grep -v "Generate inpsiration" | head -n 1 | cut -d' ' -f 1)
+          MESSAGE=$(git log --oneline $CROTCH...HEAD)
+          git reset --soft $CROTCH~1
+          git commit -am "$MESSAGE" || true
+          git push origin HEAD:${{github.ref_name}} -f || true
