@@ -98,7 +98,13 @@ jobs:
           git config --global user.name 'GitHub Actions'
           git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
           CROTCH=$(git log --oneline | grep -v "Update github-metrics.svg" | grep -v "Generate inpsiration" | head -n 1 | cut -d' ' -f 1)
-          MESSAGE=$(git log --oneline $CROTCH...HEAD)
-          git reset --soft $CROTCH~1
-          git commit -am "$MESSAGE" || true
-          git push origin HEAD:${{github.ref_name}} -f || true
+          MESSAGE="$(git log --oneline $CROTCH...HEAD)"
+          if [[ $MESSAGE ]]
+          then
+            MESSAGE="$MESSAGE
+            
+            [skip ci]"
+            git reset --soft $CROTCH~1
+            git commit -am "$MESSAGE" || true
+            git push origin HEAD:${{github.ref_name}} -f || true
+          fi
