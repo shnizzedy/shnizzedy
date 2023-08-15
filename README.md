@@ -7,10 +7,7 @@
   <summary><strong>My work hours</strong></summary>
 <!-- *Are you a morning person? Or a night owl? When should someone expect to work with you? When will I be unavailable?* -->
 
-I <span title="struggle">strive</span> to maintain a healthy work-life balance. In service of that effort, for my primary employment I try to be:
-
-* fully available 9 AM ‒ 5 PM ([America/New_York](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones)) on workdays (typically Monday ‒ Friday) with approximately a 30 minute lunch break at some point
-* fully unavailable outside those hours, during lunch, weekends, and days off
+I <span title="struggle">strive</span> to maintain a healthy work-life balance. We also recently (2023 April) had a baby. In service of that effort, for my primary employment I try to be available 20 hours per week, around the babe's schedule.
 </details>
 
 <details markdown="1">
