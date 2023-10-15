@@ -2507,7 +2507,7 @@ Co-authored-by: Elizabeth Kenneally &lt;113037677+e-kenneally@users.noreply.gith
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 559k out of 57.2m repositories</span>
+                                    <span class="gh">ranked 559k out of 61.1m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 50 stars</div>
                             </div>
@@ -2553,7 +2553,7 @@ Co-authored-by: Elizabeth Kenneally &lt;113037677+e-kenneally@users.noreply.gith
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.48m out of 57.2m repositories</span>
+                                    <span class="gh">ranked 2.50m out of 61.1m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 3 times</div>
                             </div>
@@ -2706,7 +2706,7 @@ Co-authored-by: Elizabeth Kenneally &lt;113037677+e-kenneally@users.noreply.gith
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 15 Oct 2023, 06:08:13 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Oct 2023, 08:13:40 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
