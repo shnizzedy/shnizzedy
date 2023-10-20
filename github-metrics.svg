@@ -2091,7 +2091,7 @@ pipeline_setup:
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 148k out of 120m users</span>
+                                    <span class="gh">ranked 148k out of 122m users</span>
                                 </div>
                                 <div class="text">Published 107 public repositories</div>
                             </div>
@@ -2392,7 +2392,7 @@ pipeline_setup:
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 366k out of 120m users</span>
+                                    <span class="gh">ranked 366k out of 122m users</span>
                                 </div>
                                 <div class="text">Followed by 33 users</div>
                             </div>
@@ -2498,7 +2498,7 @@ pipeline_setup:
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 560k out of 173m repositories</span>
+                                    <span class="gh">ranked 560k out of 170m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 50 stars</div>
                             </div>
@@ -2544,7 +2544,7 @@ pipeline_setup:
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.55m out of 173m repositories</span>
+                                    <span class="gh">ranked 2.55m out of 170m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 3 times</div>
                             </div>
@@ -2697,7 +2697,7 @@ pipeline_setup:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 Oct 2023, 06:09:09 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Oct 2023, 08:14:49 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
