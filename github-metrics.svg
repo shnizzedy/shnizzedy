@@ -2489,7 +2489,7 @@ So some failing correlations don't cause the whole thing to fail
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 564k out of 57.6m repositories</span>
+                                    <span class="gh">ranked 564k out of 58.1m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 50 stars</div>
                             </div>
@@ -2535,7 +2535,7 @@ So some failing correlations don't cause the whole thing to fail
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.51m out of 57.6m repositories</span>
+                                    <span class="gh">ranked 2.48m out of 58.1m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 3 times</div>
                             </div>
@@ -2688,7 +2688,7 @@ So some failing correlations don't cause the whole thing to fail
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 9 Nov 2023, 22:09:00 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Nov 2023, 00:08:03 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
