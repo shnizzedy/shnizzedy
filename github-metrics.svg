@@ -2638,7 +2638,7 @@ Ref https://github.com/afni/afni/commit/95b547a9cf0343c373e6b3b5cc0cd2feea310fbd
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 546k out of 59.7m repositories</span>
+                                    <span class="gh">ranked 546k out of 55.8m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 53 stars</div>
                             </div>
@@ -2684,7 +2684,7 @@ Ref https://github.com/afni/afni/commit/95b547a9cf0343c373e6b3b5cc0cd2feea310fbd
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.54m out of 59.7m repositories</span>
+                                    <span class="gh">ranked 2.55m out of 55.8m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 3 times</div>
                             </div>
@@ -2837,7 +2837,7 @@ Ref https://github.com/afni/afni/commit/95b547a9cf0343c373e6b3b5cc0cd2feea310fbd
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 14 Dec 2023, 02:08:26 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Dec 2023, 04:08:56 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
