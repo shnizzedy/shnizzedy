@@ -3151,7 +3151,7 @@ Good question. I'm all for dropping the every-release variants after this releas
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 551k out of 51.7m repositories</span>
+                                    <span class="gh">ranked 551k out of 55.7m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 53 stars</div>
                             </div>
@@ -3197,7 +3197,7 @@ Good question. I'm all for dropping the every-release variants after this releas
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.59m out of 51.7m repositories</span>
+                                    <span class="gh">ranked 2.49m out of 55.7m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 3 times</div>
                             </div>
@@ -3350,7 +3350,7 @@ Good question. I'm all for dropping the every-release variants after this releas
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 4 Jan 2024, 08:10:33 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Jan 2024, 10:09:32 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
