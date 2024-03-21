@@ -2124,7 +2124,7 @@ Also update np.random calls
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 150k out of 132m users</span>
+                                    <span class="gh">ranked 150k out of 133m users</span>
                                 </div>
                                 <div class="text">Published 110 public repositories</div>
                             </div>
@@ -2425,7 +2425,7 @@ Also update np.random calls
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 408k out of 132m users</span>
+                                    <span class="gh">ranked 408k out of 133m users</span>
                                 </div>
                                 <div class="text">Followed by 32 users</div>
                             </div>
@@ -2531,7 +2531,7 @@ Also update np.random calls
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 568k out of 86.6m repositories</span>
+                                    <span class="gh">ranked 568k out of 83.5m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 53 stars</div>
                             </div>
@@ -2577,7 +2577,7 @@ Also update np.random calls
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.64m out of 86.6m repositories</span>
+                                    <span class="gh">ranked 2.64m out of 83.5m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 3 times</div>
                             </div>
@@ -2730,7 +2730,7 @@ Also update np.random calls
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 21 Mar 2024, 01:08:39 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Mar 2024, 03:08:53 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
