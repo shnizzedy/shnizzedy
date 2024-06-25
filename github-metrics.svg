@@ -3433,7 +3433,7 @@ fix: python 2 Function interfaces recompatibility</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 542k out of 212m repositories</span>
+                                    <span class="gh">ranked 542k out of 210m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 59 stars</div>
                             </div>
@@ -3514,7 +3514,7 @@ fix: python 2 Function interfaces recompatibility</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.70m out of 212m repositories</span>
+                                    <span class="gh">ranked 2.70m out of 210m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 3 times</div>
                             </div>
@@ -3667,7 +3667,7 @@ fix: python 2 Function interfaces recompatibility</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 Jun 2024, 00:11:29 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Jun 2024, 02:13:18 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
