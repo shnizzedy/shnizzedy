@@ -7,7 +7,7 @@
   <summary><strong>My work hours</strong></summary>
 <!-- *Are you a morning person? Or a night owl? When should someone expect to work with you? When will I be unavailable?* -->
 
-I <span title="struggle">strive</span> to maintain a healthy work-life balance. We also recently (2023 April) had a baby. In service of that effort, for my primary employment I try to be available 20 hours per week, around the babe's schedule.
+I <span title="struggle">strive</span> to maintain a healthy work-life balance. My work schedule is Monday ‒ Friday, 9 AM to 5 PM Eastern Time.
 </details>
 
 <details markdown="1">
