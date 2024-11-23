@@ -2179,7 +2179,7 @@ for more information, see https://pre-commit.ci</div>
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 155k out of 149m users</span>
+                                    <span class="gh">ranked 155k out of 142m users</span>
                                 </div>
                                 <div class="text">Published 114 public repositories</div>
                             </div>
@@ -2444,7 +2444,7 @@ for more information, see https://pre-commit.ci</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 412k out of 149m users</span>
+                                    <span class="gh">ranked 412k out of 142m users</span>
                                 </div>
                                 <div class="text">Followed by 36 users</div>
                             </div>
@@ -2515,7 +2515,7 @@ for more information, see https://pre-commit.ci</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 537k out of 229m repositories</span>
+                                    <span class="gh">ranked 537k out of 219m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 64 stars</div>
                             </div>
@@ -2596,7 +2596,7 @@ for more information, see https://pre-commit.ci</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.79m out of 229m repositories</span>
+                                    <span class="gh">ranked 2.79m out of 219m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 3 times</div>
                             </div>
@@ -2749,7 +2749,7 @@ for more information, see https://pre-commit.ci</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 22 Nov 2024, 21:16:28 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Nov 2024, 23:13:20 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
