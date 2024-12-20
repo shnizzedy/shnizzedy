@@ -2563,7 +2563,7 @@ tree
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 541k out of 233m repositories</span>
+                                    <span class="gh">ranked 541k out of 230m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 64 stars</div>
                             </div>
@@ -2644,7 +2644,7 @@ tree
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.80m out of 233m repositories</span>
+                                    <span class="gh">ranked 2.80m out of 230m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 3 times</div>
                             </div>
@@ -2797,7 +2797,7 @@ tree
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 Dec 2024, 07:19:32 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Dec 2024, 09:10:25 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
