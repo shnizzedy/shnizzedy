@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2355" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2388" class="">
     <defs>
         <style/>
     </defs>
@@ -427,12 +427,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 4 commits)</small>
+                    <small class="h-details">(computed from last 5 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Mostly pushes code around 09:00</li>
-                        <li>Mostly active on Monday</li>
+                        <li>Mostly active on Friday</li>
                     </ul>
                 </div>
             </section>
@@ -1600,6 +1600,26 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
+                                        <span class="repo">FCP-INDI/C-PAC</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">motion_estimation_timing</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#fbfc298</div>
+                                        <div class="message"><img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" /> Keep despiking and stc together vis-à-vis motion calculation</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">FCP-INDI/regtest-runlogs</span>
                                     </div>
                                 </div>
@@ -1666,22 +1686,6 @@
                                     <div class="commit">
                                         <div class="sha">#8a80b8f</div>
                                         <div class="message"><img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" /> De-listify estimate + filter in stack</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      branch
-                                        <span class="code">motion_estimation_timing</span>
-                                        in
-                                        <span class="repo">FCP-INDI/C-PAC</span>
                                     </div>
                                 </div>
                             </section>
@@ -1954,7 +1958,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Jul 2025, 21:01:07 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Jul 2025, 00:24:43 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
